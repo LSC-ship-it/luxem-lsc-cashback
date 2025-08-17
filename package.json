@@ -1,0 +1,14 @@
+{
+  "name": "luxem-lsc-cashback",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@thirdweb-dev/sdk": "4.0.99",
+    "@vercel/postgres": "^0.10.0",
+    "ethers": "5.7.2"
+  }
+}
