@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 node_modules/
 .env
 .vercel
+=======
+node_modules
+.env
+>>>>>>> e049b289 (Add .gitignore and remove node_modules from tracking)
